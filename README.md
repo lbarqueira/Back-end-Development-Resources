@@ -1,5 +1,5 @@
 # Back-end Development Resources
-List of resources that I use for Back-end Web Development 
+List of resources that I use for Back-end Web and Mobile Development 
 
 
 ## Courses
